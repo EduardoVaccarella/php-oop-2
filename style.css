@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+.prodotto-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.prodotto {
+    width: 350px;
+    background-color: lightgray;
+    padding: 25px;
+    margin: 25px;
+}
